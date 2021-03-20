@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'github-pages'
+gem 'github-pages', '>= 207'
 gem 'sass'
 gem 'octopress', '~> 3.0.0.rc.12'
-gem 'jekyll-sitemap'
+gem 'jekyll-sitemap', '>= 1.0.0'
